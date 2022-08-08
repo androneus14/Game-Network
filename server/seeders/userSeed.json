@@ -1,0 +1,44 @@
+[
+    {
+        "username": "AndyNguyen",
+        "email": "andynguyen_3@hotmail.com",
+        "password": "password1",
+        "friends": [],
+        "posts": []
+    },
+    {
+        "username": "JohnPrice",
+        "email": "johnprice@gmail.com",
+        "password": "password2",
+        "friends": [],
+        "posts": []
+    },
+    {
+        "username": "JohnMacTavish",
+        "email": "johnmactavish@gmail.com",
+        "password": "password3",
+        "friends": [],
+        "posts": []
+    },
+    {
+        "username": "SimonRiley",
+        "email": "simonriley@gmail.com",
+        "password": "password4",
+        "friends": [],
+        "posts": []
+    },
+    {
+        "username": "GarySanderson",
+        "email": "garysanderson@gmail.com",
+        "password": "password5",
+        "friends": [],
+        "posts": []
+    },
+    {
+        "username": "JosephAllen",
+        "email": "josephallen@gmail.com",
+        "password": "password6",
+        "friends": [],
+        "posts": []
+    }
+]

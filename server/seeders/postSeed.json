@@ -1,0 +1,53 @@
+[
+    {
+        "gameTitle": "Call of Duty: Warzone",
+        "username": "AndyNguyen",
+        "gameRating": "8",
+        "gameReview": "Love this game but it's starting to get stale. Need rotating and better maps. Can't wait for Warzone 2!",
+        "comments": [
+            {
+                "commentText": "Agreed about the map. At least the cheater situation is getting better.",
+                "username": "SimonRiley"
+            }
+        ]
+    },
+
+    {
+        "gameTitle": "Valorant",
+        "username": "JohnPrice",
+        "gameRating": "10",
+        "gameReview": "Best game out at the moment if you're playing with the right people!",
+        "comments": [
+            {
+                "commentText": "Definitely! Even if you're playing with randoms, if they're friendly and not toxic, it's still so fun!",
+                "username": "GarySanderson"
+            }
+        ]
+    },
+
+    {
+        "gameTitle": "Starcraft II",
+        "username": "JosephAllen",
+        "gameRating": "9",
+        "gameReview": "The game may be old but it's still the best of its kind years later.",
+        "comments": [
+            {
+                "commentText": "I've been waiting for SC3 for years...",
+                "username": "JohnMacTavish"
+            }
+        ]
+    },
+
+    {
+        "gameTitle": "Diablo II Resurrected",
+        "username": "GarySanderson",
+        "gameRating": "8",
+        "gameReview": "Join my clan! Clan number is 123456789!",
+        "comments": [
+            {
+                "commentText": "I've got a few friends that are interested!",
+                "username": "JohnPrice"
+            }
+        ]
+    }
+]
