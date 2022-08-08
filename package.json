@@ -22,5 +22,9 @@
     "dependencies": {
         "@craco/craco": "^6.4.5",
         "jsonwebtoken": "^8.5.1"
+    },
+    "engines": {
+        "node": "16.13.2",
+        "npm": "8.1.2"
     }
 }
